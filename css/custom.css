@@ -1,0 +1,26 @@
+/* your styles go here */
+.heading {
+  font-size: 1.3rem;
+  padding-top: 30px;
+}
+
+.description {
+  padding-left: 125px;
+  padding-right: 115px;
+  padding top: 30px;
+  padding-bottom:
+}
+
+.app-link {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 0.2em;
+}
+
+.app-link:first-child {
+  padding-left: 0px;
+}
